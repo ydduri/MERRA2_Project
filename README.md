@@ -1,9 +1,12 @@
-# MERRA2_Project
+# :cloud: MERRA2_Project
 MERRA2 재분석장 자료를 이용한 프로젝트
 
-  
 ### Project 1. Vertical Wind Velocity
 Object: Calculate vertical wind velocity and make a figure of zonally-averaged vertical wind velocity w
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63230753/209354173-506332a1-1b47-47cf-be0d-c96db07cc020.png">
+</p>
 
 ***
   
