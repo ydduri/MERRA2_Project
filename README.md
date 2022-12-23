@@ -14,5 +14,5 @@ Object: Calculate vertical wind velocity and make a figure of zonally-averaged v
 Object: Calculate potential temperature and make figures of potential temperature, potential vorticity and ozone mixing ratio
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63230753/209355304-36d71a8d-a621-4c38-b4d4-3366f64cdfa2.png">
+  <img src="https://user-images.githubusercontent.com/63230753/209356006-42f8232e-6c73-4c3a-b56c-76ff33172eb8.png">
 </p>
